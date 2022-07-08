@@ -3,7 +3,7 @@
 An Object detection system to detect and extract documents from the given Image. The model used is the 'SSD-MOBILENET-V1',which has processing speed of 48ms and a Mean Average Precision (mAP) of 29.
 
 <div float="left" align="center">
-<img src="/assets/example.png"  width="70%"/>
+<img src="/assets/example.png"  width="80%"/>
 </div>
 
 
