@@ -7,7 +7,29 @@ An Object detection system to detect and extract documents from the given Image.
 </div>
 
 
-## Web Interface
+## 1] Run Inference
+
+To run an Inference over a single Image, open the inference.py file and set the file path, then execute the script.
+
+1. Git clone the repository on your system. This will download the pre-trained model and required files on your computer.
+```
+git clone https://github.com/deepeshdm/Document-Extraction.git
+```
+
+2. Install the required dependencies to run the app
+```
+pip install -r requirements.txt
+```
+
+3. Open inference.py file and set the parameters and execute the file.
+
+```
+python inference.py
+```
+
+
+
+## 2] Web Interface
 
 The Web Interface is made using streamlit, you can run it locally by executing the following commands :
 
