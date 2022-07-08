@@ -36,7 +36,7 @@ The Web Interface is made using streamlit, you can run it locally by executing t
 **🔥 Official Website :** https://deepeshdm-document-extraction-web-interface-bz0qd3.streamlitapp.com/
 
 <div align="center">
-  <img src="/assets/web.png"  width="60%"/>
+  <img src="/assets/web.png"  width="80%"/>
 </div>
 <br/>
 
