@@ -1,0 +1,26 @@
+<annotation>
+	<folder>to_send</folder>
+	<filename>Image_82.jpeg</filename>
+	<path>C:\Users\Deepesh\Desktop\to_send\Image_82.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>760</width>
+		<height>1020</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>document</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>79</xmin>
+			<ymin>374</ymin>
+			<xmax>691</xmax>
+			<ymax>644</ymax>
+		</bndbox>
+	</object>
+</annotation>

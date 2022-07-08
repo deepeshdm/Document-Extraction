@@ -1,0 +1,11 @@
+numpy
+opencv-python==4.5.5.62
+Pillow
+streamlit==1.5.0
+requests
+requests-toolbelt
+tensorflow==2.7
+tensorflow-object-detection-api==0.1.1
+protobuf==3.20.*
+flask
+pybase64
