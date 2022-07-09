@@ -84,6 +84,8 @@ if content_image is not None:
 
                 print("Cropping document part...")
                 extracted_doc = pilImage.crop((x1, y1, x2, y2))
+                # convert BGR to RGB
+                extracted_doc = extracted_doc.convert("RGB")
 
                 # Download option
                 buffered = io.BytesIO()
