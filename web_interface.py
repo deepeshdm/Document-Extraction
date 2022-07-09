@@ -26,7 +26,7 @@ st.markdown("</br>", unsafe_allow_html=True)
 
 # Upload the Image
 content_image = st.file_uploader(
-    "Upload Image (PNG & JPG images only). Image must be of size (760x1020) for optimal result. Images bigger than (760x1020) will be resized, resulting in reduced image quality.",
+    "Image must be of size (760x1020) for optimal result. Images bigger than (760x1020) will be resized, resulting in reduced image quality.",
     type=['png', 'jpg', 'jpeg'])
 
 st.markdown("</br>", unsafe_allow_html=True)
