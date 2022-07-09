@@ -87,6 +87,7 @@ if content_image is not None:
                 # convert BGR to RGB
                 extracted_doc = np.array(extracted_doc)
                 extracted_doc = cv2.cvtColor(extracted_doc, cv2.COLOR_BGR2RGB)
+                extracted_doc = Image.fromarray(np.array(extracted_doc))
 
                 # Download option
                 buffered = io.BytesIO()
